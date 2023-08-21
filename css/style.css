@@ -175,7 +175,7 @@ body {
     }
     .carta_promedio{
         display: grid;
-        grid: repeat(3, 250px) / repeat(1, 1fr);
+        grid: repeat(3, 300px) / repeat(1, 1fr);
         margin-top: 5rem;
         margin-bottom: 48rem;
     }
